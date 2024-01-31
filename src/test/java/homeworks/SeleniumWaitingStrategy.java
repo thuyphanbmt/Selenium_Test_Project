@@ -12,7 +12,7 @@ import java.time.Duration;
 
 public class SeleniumWaitingStrategy {
     public static void main(String[] args) {
-        // Khoi tao WebDriver 123
+        // Khoi tao WebDriver
         WebDriver driver = new ChromeDriver();
 
         // Step 1: Set implicit wait for loading the web page (30 seconds)
